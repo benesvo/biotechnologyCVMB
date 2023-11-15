@@ -1,2 +1,2 @@
 # biotechnologieCVMB
-skripty pro vizualizaci a modelování dat souvisejících s kultivací a zpracováním biomasy v CVMB EPS biotechnology, s.r.o.
+scripts for visualization and modelling of data for biomass processing in the CVMB of EPS biotechnology, s.r.o.
